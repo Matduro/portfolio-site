@@ -18,4 +18,7 @@ The following is to improve the readability of the CSS classes in the code.
 1. Double underscore "__" in classes to represent sub-classes
 2. Double dash "--" in classes to represent a modifier class
 
-Note: *CSS Native variables can be changed within a media query*
+Notes: 
+*CSS Native variables can be changed within a media query*
+
+*Generally you could make your reponsive design based on 300px+, 600px+, and 900px+ instead of focusing on specific devices. That may change if you have a specific target audience.*
