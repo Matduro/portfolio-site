@@ -24,3 +24,5 @@ Notes:
 *Generally you could make your reponsive design based on 300px+, 600px+, and 900px+ instead of focusing on specific devices. That may change if you have a specific target audience.*
 
 *Using absolute positioning is far more rigid and makes it difficult to write layouts that respond well to changing content.*
+
+*Have 2 media queries per section to deal with the layout*
