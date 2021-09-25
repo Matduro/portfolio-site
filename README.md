@@ -17,3 +17,5 @@ Built a portfolio site to display my projects more easily.
 The following is to improve the readability of the CSS classes in the code.
 1. Double underscore "__" in classes to represent sub-classes
 2. Double dash "--" in classes to represent a modifier class
+
+Note: *CSS Native variables can be changed within a media query*
