@@ -106,3 +106,7 @@ dist
 # img folder
 
 img/
+
+## DS_store
+
+.DS_store
